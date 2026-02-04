@@ -1,0 +1,5 @@
+{
+  "name": "NovaChat",
+  "description": "A sleek, galactic-themed messaging application similar to WhatsApp and Telegram, built with React and Firebase. It focuses on private messaging between registered users with real-time capabilities.",
+  "requestFramePermissions": []
+}
